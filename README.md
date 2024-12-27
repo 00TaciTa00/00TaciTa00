@@ -1,5 +1,8 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&height=210&section=header&text=Welcom%20to%20TaciTa%20World!&fontColor=273329&fontSize=50&fontAlignY=40&stroke=ffffff&animation=twinkling" />
 
+![TaciTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=00tacita00&show_icons=true&bg_color=00000000)
+
+Loading...
 <!--
 **00TaciTa00/00TaciTa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
